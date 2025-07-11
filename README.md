@@ -19,6 +19,7 @@ A modern, responsive teacher management system built with Next.js, TypeScript, a
 
 ## Loom Video Link
 
+[https://drive.google.com/file/d/19D6X8i6jCOtJ44h7_5SbgryarsxdBo-1/view?usp=sharing]
 
 ## Live Demo
 
